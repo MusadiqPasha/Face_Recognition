@@ -23,16 +23,18 @@
 ### Screenshots
 
 ### Simple UI
-<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/bg4.png'>
+<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/GUI%20U%20K.png'>
 
 
 ### While taking Image
+<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/only_name/MESSI.jpg'>
 
+<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/only_name/KANYE%20WEST.jpg'>
 
-## While taking Attendance
+<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/only_name/JOE%20BIDEN.jpg'>
 
 ## Attendance in tabular format 
-<img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/7.PNG'>
+<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/Attendance.jpeg'>
 
 ## Just follow me and Star⭐ my repository 
 ## Thank You!!
