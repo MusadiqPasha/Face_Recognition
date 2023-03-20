@@ -34,7 +34,7 @@
 <img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/only_name/JOE%20BIDEN.jpg'>
 
 ## Attendance in tabular format 
-<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/Attendance.jpeg'>
+<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/Attendance.png'>
 
 ## Just follow me and Star⭐ my repository 
 ## Thank You!!
