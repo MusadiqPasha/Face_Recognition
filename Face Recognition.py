@@ -256,7 +256,7 @@ def delete_a_face():
     root1 = tk.Toplevel()
     root1.geometry("310x220")
     root1.title("delete")
-    image2 = PhotoImage(file='delete.png')
+    image2 = PhotoImage(file=r"C:\Users\kmusa\PycharmProjects\Face_Recognition-main\other_files\delete.png")
     bg1label = tk.Label(root1, image=image2, width=300, height=180)
     bg1label.pack()
     button9 = tk.Button(root1, text="Select the images", command=open_images_to_delete, width=300,pady=5)
@@ -273,7 +273,7 @@ def know_faces():
 
 
 def about():
-    os.startfile(r"ABOUT OURSELVES.png")
+    os.startfile(r"C:\Users\kmusa\PycharmProjects\Face_Recognition-main\other_files\ABOUT OURSELVES.png")
 
 #############----Mainn-------#############
 
@@ -285,7 +285,7 @@ print("Encoding Completed..")
 
 # GUIIIII
 
-imag = tk.PhotoImage(file="bg4.png")
+imag = tk.PhotoImage(file=r"C:\Users\kmusa\PycharmProjects\Face_Recognition-main\other_files\bg4.png")
 
 frame = cstk.CTkFrame(master=root)
 frame.pack(padx=60,pady=20,fill="both",expand=True)
