@@ -1,0 +1,8 @@
+numpy
+opencv-python
+keyboard
+pyautogui
+customtkinter
+dlib
+face-recognition
+cmake
