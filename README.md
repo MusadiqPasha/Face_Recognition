@@ -2,7 +2,7 @@
 # Face based Attendance System using PYTHON and openCV
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
-[![Python 3.9.13](https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe) 
+
 
 ### What steps you have to follow??
 - Download or clone my Repository to your device
