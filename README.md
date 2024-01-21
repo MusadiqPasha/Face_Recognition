@@ -4,7 +4,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 
 
-### What steps you have to follow??
+### Steps to Follow
 - Download or clone my Repository to your device
 - type `pip install -r requirements.txt` in command prompt(this will install required package for project)
 - Put a single high quality image of person in `ImagesAttendance` folder in a project folder.
